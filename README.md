@@ -1,7 +1,7 @@
 # Mini Quest de SQL y Visualización de Datos en Python
 
 <p align="center">
-  <![Uploading image.png…]()>
+  <[![Uploading image.png…]()](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.stackademic.com%2Fpython-3-ways-to-work-with-databases-sql-orm-query-builder-e2a2d3cbe437&psig=AOvVaw0HEEegc9flMilJSk3LK7WT&ust=1709914294623000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJimkqPF4oQDFQAAAAAdAAAAABAE)>
 </p>
 
 
