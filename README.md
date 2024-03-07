@@ -1,15 +1,15 @@
 # Mini Quest de SQL y Visualización de Datos en Python
 
 <p align="center">
-  <![image](https://github.com/carloscuerda9/SQL-PYTHON_QUEST/assets/157844996/e7259b67-58f3-4e7f-b135-dc9aec9b9062)>
+  <![Uploading image.png…]()>
 </p>
 
-This is Ironhack's **mid-bootcamp project**, developed and (not-yet)completed .
+
 
 
 ## Descripción:
 
-*Este repositorio contiene una Mini Quest diseñada para consolidar y fortalecer el conocimiento en SQL, complementada con visualizaciones de datos utilizando Python. La base de datos utilizada se descargó de Kaggle (Bike Store Sample Database).
+Este repositorio contiene una Mini Quest diseñada para consolidar y fortalecer el conocimiento en SQL, complementada con visualizaciones de datos utilizando Python. La base de datos utilizada se descargó de Kaggle (Bike Store Sample Database).
 
 **Entornos**
 * **Python:** Utilizamos Python para realizar análisis de datos y crear visualizaciones. 
