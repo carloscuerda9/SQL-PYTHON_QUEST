@@ -1,7 +1,8 @@
 # Mini Quest de SQL y Visualización de Datos en Python
 
 <p align="center">
-  <img src="![image](https://github.com/carloscuerda9/SQL-PYTHON_QUEST/assets/157844996/6ffc207e-8d79-47ff-bf2d-ad133f9adcda)
+  <img src="[SQL-Vs-Python](https://github.com/carloscuerda9/SQL-PYTHON_QUEST/assets/157844996/432eae9a-f2b7-4f97-85fd-0af9e1858530)
+T/assets/157844996/6ffc207e-8d79-47ff-bf2d-ad133f9adcda)
 " >
 </p>
 
